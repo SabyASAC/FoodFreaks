@@ -53,7 +53,7 @@ p {
 
 <a href="................">South Indian Cusine!</a>
 
-6. Fast Food 
+<h4> 6. Fast Food </h4> 
 
 <a href="..............">Fast Food Cusine!</a>
 
