@@ -27,7 +27,7 @@ p {
 <body> 
 <h1> Online Website To Suggest Best Dining Spots </h1> 
 
-<img src="og17.jpeg"> 
+<img src="https://paste.pics/B9EFO"> 
 
 <p> Which type of cusine are you interested in? </p>
 
