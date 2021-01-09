@@ -39,29 +39,29 @@ p {
 
 <h4> 2. Italian </h4> 
 
-<a href=".............">Italian Cusine!</a> 
+<a href="https://sabyasac.github.io/ItalianCusine">Italian Cusine!</a> 
 
 <h4> 3. Mughlai </h4> 
 
-<a href="..............">Mughlai Cusine!</a>
+<a href="https://sabyasac.github.io/MughlaiCusine">Mughlai Cusine!</a>
 
 <h4> 4. North Indian </h4>
 
-<a href="................">North Indian Cusine!</a>
+<a href="https://sabyasac.github.io/NorthIndianCusine">North Indian Cusine!</a>
 
 <h4> 5. South Indian </h4> 
 
-<a href="................">South Indian Cusine!</a>
+<a href="https://sabyasac.github.io/SouthIndianCusine/">South Indian Cusine!</a>
 
 <h4> 6. Fast Food </h4> 
 
-<a href="..............">Fast Food Cusine!</a>
+<a href="https://sabyasac.github.io/FastFoodCusine">Fast Food Cusine!</a>
 
 ____________________________
 
 <p> If you cant decide what to choose, click this : </p>
 
-<a href="............">Random Choice</a> 
+<a href="https://sabyasac.github.io/ItalianCusine">Random Choice</a> 
 
 </body>
 
